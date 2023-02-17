@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LenaK513/react-weather-app/static/css/main.7acaea2f.css",
+    "main.js": "/LenaK513/react-weather-app/static/js/main.07d3183d.js",
+    "index.html": "/LenaK513/react-weather-app/index.html",
+    "main.7acaea2f.css.map": "/LenaK513/react-weather-app/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/LenaK513/react-weather-app/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
